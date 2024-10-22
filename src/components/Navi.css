@@ -1,0 +1,14 @@
+.Navi{
+  display: flex;
+  flex: 1;
+  background-color: brown;
+  height: 200px;
+  justify-content: space-around;
+}
+
+.NaviSub{
+  background-color: orangered;
+  flex: 0.9;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
