@@ -4,6 +4,7 @@
   background-color: brown;
   height: 200px;
   justify-content: space-around;
+  border: 2px solid black;
 }
 
 .NaviSub{
@@ -11,4 +12,5 @@
   flex: 0.9;
   margin-top: 20px;
   margin-bottom: 20px;
+  border: 2px solid black;
 }
